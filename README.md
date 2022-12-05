@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Valentino Borgo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 Estoy interesado en dar mis primeros pasos en el area y colaborar con como desarrolador Front-End o Full Stack.
+- 🔭 Estoy interesado en dar mis primeros pasos en el area y colaborar como desarrollador Front-End o Full Stack.
 
 - 📫 Cómo contactarme **lmgb.1a.borgo.valentino@gmail.com**
 
