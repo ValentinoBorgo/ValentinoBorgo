@@ -1,5 +1,5 @@
-<h1 align="center">Hola soy Valentino Borgo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hola soy Valentino Borgo 🚀</h1>
+<h3 align="center"> <img align="right" alt="GIF" src="https://www.flaticon.es/icono-gratis/codificacion_711284?term=lenguaje+de+programaci%C3%B3n&page=1&position=9&origin=tag&related_id=711284" /> Full Stack Developer</h3>
 
 - 🔭 Estoy interesado en dar mis primeros pasos en el area y colaborar como desarrollador Full Stack.
 
