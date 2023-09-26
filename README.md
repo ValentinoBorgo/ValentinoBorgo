@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> soy Valentino Borgo 🚀</h1>
+<h1 align="center">Hola soy Valentino Borgo 🚀</h1> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h3 align="center">Full Stack Developer</h3>
 
 - 🔭 Estoy interesado en dar mis primeros pasos en el area y colaborar como desarrollador Full Stack.
