@@ -30,7 +30,9 @@
 <a href="https://www.linkedin.com/in/valentino-borgo-a185b2258/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="borgovalentino1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-borgovalentino1@gmail.com-blue?style=flat-square&logo=gmail"></a> 
+ <a href="borgovalentino1@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-borgovalentino1@gmail.com-blue?style=flat-square&logo=gmail style="margin-bottom: 5px;">
+ </a> 
 </div>
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ValentinoBorgo&show_icons=true)
