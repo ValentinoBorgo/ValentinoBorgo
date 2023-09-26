@@ -8,7 +8,6 @@
 - 📫 Cómo contactarme **borgovalentino1@gmail.com**
 
 ## Lenguajes y Herramientas
-<div>
  <aside>
   ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ValentinoBorgo&show_icons=true)
  </aside>
@@ -24,7 +23,7 @@
  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=Symfony) </br>
  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)</br>
  ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)</br>
-</div>
+
 ## Conecta conmigo 
 <div align="center">
 <a href="https://github.com/ValentinoBorgo" target="_blank">
