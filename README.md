@@ -8,9 +8,8 @@
 - 📫 Cómo contactarme **borgovalentino1@gmail.com**
 
 ## Lenguajes y Herramientas
- <aside>
-  ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ValentinoBorgo&show_icons=true)
- </aside>
+
+ ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ValentinoBorgo&show_icons=true)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </br>
  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java) </br>
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) </br>
