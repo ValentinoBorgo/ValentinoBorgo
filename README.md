@@ -8,7 +8,10 @@
 - 📫 Cómo contactarme **borgovalentino1@gmail.com**
 
 ## Lenguajes y Herramientas
-
+<div>
+ <aside>
+  ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ValentinoBorgo&show_icons=true)
+ </aside>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </br>
  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java) </br>
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) </br>
@@ -21,7 +24,7 @@
  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=Symfony) </br>
  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)</br>
  ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)</br>
-
+</div>
 ## Conecta conmigo 
 <div align="center">
 <a href="https://github.com/ValentinoBorgo" target="_blank">
@@ -30,9 +33,6 @@
 <a href="https://www.linkedin.com/in/valentino-borgo-a185b2258/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="maurovera069@gmail.com" taget="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 </div>
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ValentinoBorgo&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ValentinoBorgo&label=Profile%20views&color=0e75b6&style=flat" alt="ValentinoBorgo" /> </p>
