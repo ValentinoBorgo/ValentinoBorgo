@@ -22,6 +22,20 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 </div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+ ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+ ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+ <br/>
+ ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+ ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+ ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=Symfony)
 
 ## Conecta conmigo 
 <div align="center">
