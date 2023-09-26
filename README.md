@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Valentino Borgo 🚀</h1>
-<h3 align="center"> <img align="right" alt="GIF" src="https://iconos8.es/icon/87276/c%C3%B3digo" /> Full Stack Developer</h3>
+<h3 align="center">🔌 Full Stack Developer</h3> 
 
 - 🔭 Estoy interesado en dar mis primeros pasos en el area y colaborar como desarrollador Full Stack.
 
