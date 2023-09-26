@@ -10,15 +10,17 @@
 ## Lenguajes y Herramientas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) </br>
- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) </br>
  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java) </br>
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) </br>
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) </br>
  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) </br>
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) </br> 
  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) </br> 
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) </br>
- ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize) </br>
+ ![MySQL](https://img.shields.io/badge/-MySQLl-333333?style=flat&logo=MySQL) </br>
+ ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP) </br>
+ ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=Symfony) </br>
+ ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)</br>
+ ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)</br>
 
 ## Conecta conmigo 
 <div align="center">
