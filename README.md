@@ -10,7 +10,7 @@
 ## Lenguajes y Herramientas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)</br>
- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)</br>
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</br>
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)</br>
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)</br>
  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)</br>
