@@ -24,6 +24,7 @@
  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)</br>
  ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)</br>
  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)</br>
+ ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)</br>
 
 ## Conecta conmigo 
 <div align="center">
