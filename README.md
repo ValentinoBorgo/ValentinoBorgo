@@ -1,8 +1,6 @@
 <h1 align="center">Hola soy Valentino Borgo 🚀</h1>
 <h3 align="center">🔌 Full Stack Developer</h3> 
 
-- 🔭 Estoy interesado en dar mis primeros pasos en el area y colaborar como desarrollador Full Stack.
-
 - 👨‍💻 Todos mis proyectos estan disponibles en https://valentinoborgo.github.io/
 
 - 📫 Cómo contactarme **borgovalentino1@gmail.com**
