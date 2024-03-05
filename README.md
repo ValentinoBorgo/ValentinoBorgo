@@ -12,6 +12,7 @@
  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot&logoColor=563D7)</br>
  ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=Hibernate&logoColor=563D77)</br>
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)</br>
+ ![Angular]( https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)</br>
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)</br>
  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)</br>
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)</br>
