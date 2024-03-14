@@ -7,7 +7,7 @@
 
 ## Lenguajes y Herramientas
 
-[![Amazon](https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)</br>
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</br>
  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot&logoColor=563D7)</br>
