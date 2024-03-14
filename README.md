@@ -8,6 +8,7 @@
 ## Lenguajes y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,symfony,nodejs,express,mysql,postgres,postman,docker,js,ts,html,css,react,redux,angular,bootstrap,cs,figma,linux,androidstudio)](https://skillicons.dev)
+/*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)</br>
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</br>
  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot&logoColor=563D7)</br>
@@ -26,6 +27,7 @@
  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)</br>
  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)</br>
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)</br>
+ /*
 
 ## Conecta conmigo 
 <div align="center">
