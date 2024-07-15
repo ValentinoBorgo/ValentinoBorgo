@@ -29,7 +29,7 @@
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)</br>-->
  
 
-## Conecta conmigo
+## Connect with me
 <div align="center">
 <a href="https://github.com/ValentinoBorgo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
