@@ -3,7 +3,7 @@
 
 - 👨‍💻 All my projects are available at https://valentinoborgo.github.io/
 
-- 📫 **Cómo contactarme** **borgovalentino1@gmail.com**
+- 📫 How to contact me **borgovalentino1@gmail.com**
 
 ## Languages and Tools
 
