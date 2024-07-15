@@ -1,11 +1,11 @@
-<h1 align="center">Hola soy Valentino Borgo 🚀</h1>
+<h1 align="center">Hi I'm Valentino Borgo 🚀</h1>
 <h3 align="center">🔌 Full Stack Developer</h3> 
 
-- 👨‍💻 Todos mis proyectos estan disponibles en https://valentinoborgo.github.io/
+- 👨‍💻 All my projects are available at https://valentinoborgo.github.io/
 
-- 📫 Cómo contactarme **borgovalentino1@gmail.com**
+- 📫 **Cómo contactarme** **borgovalentino1@gmail.com**
 
-## Lenguajes y Herramientas
+## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,symfony,nodejs,express,mysql,postgres,postman,docker,js,ts,html,css,react,redux,angular,bootstrap,cs,figma,linux,androidstudio)](https://skillicons.dev)
 
@@ -29,7 +29,7 @@
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)</br>-->
  
 
-## Conecta conmigo 
+## Conecta conmigo
 <div align="center">
 <a href="https://github.com/ValentinoBorgo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
