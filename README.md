@@ -26,7 +26,8 @@
  ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)</br>
  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)</br>
  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)</br>
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)</br>-->
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)</br>
+ ![AWS]( https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg)</br>-->
  
 
 ## Connect with me
