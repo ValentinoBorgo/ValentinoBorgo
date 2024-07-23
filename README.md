@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Valentino Borgo 🚀</h1>
 <h3 align="center">🔌 Full Stack Developer</h3> 
 
-- 👨‍💻 All my projects are available at https://valentinoborgo.github.io/
+- 👨‍💻 All my projects are available at https://www.behance.net/valentinoborgo
 
 - 📫 How to contact me **borgovalentino1@gmail.com**
 
